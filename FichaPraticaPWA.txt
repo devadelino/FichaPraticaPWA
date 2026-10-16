@@ -2,8 +2,13 @@
 -Commit guarda uma versão das alterações feitas no repositório local
 -Push envia os commits para o repositório no github
 -Pop aplica as alterações de stash no ficheiro
+
 2 – Quais sáo as vantagens de usar Branchs num repositório git?
+As branchs permitem experimentar e trabalhar em paralelo separadamente sem afetar todo o repositório. Possiblita também uma melhor organização por funcionalidade.
+
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em
 que consistem e como podem ser resolvidos esses conflitos?
+
+
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
 diferenças entre eles?
