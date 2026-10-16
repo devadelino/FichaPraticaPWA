@@ -8,6 +8,7 @@ As branchs permitem experimentar e trabalhar em paralelo separadamente sem afeta
 
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em
 que consistem e como podem ser resolvidos esses conflitos?
+Esses conflitos resultam quando o git não consegue combinar duas versões diferentes de um ficheiro automaticamente e resolve-se analisando os ficheiros em causa e decidindo o que deve ficar e o que deve ser retirado manualmente.
 
 
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
