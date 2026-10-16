@@ -13,3 +13,4 @@ Esses conflitos resultam quando o git não consegue combinar duas versões difer
 
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
 diferenças entre eles?
+"Clone" copia um repositório remoto para o PC, é local com ligação ao repositório original, sendo necessário permissão para alterar. "Fork" fica remotamente no github e permite a alteração de forma livre, mantendo ligação na mesma com o original.
